@@ -11,6 +11,7 @@ namespace FlappyBird_AI
 	public class NeuralNetwork
 	{
         //New changes tests
+        //New changes tests 2 on branch2
 		int[] Layers;
 		public Vector<double>[] Biases;
 		public Matrix<double>[] Weights;
